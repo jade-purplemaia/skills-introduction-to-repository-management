@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @jade-purplemaia
+/src/backend/database.py      @jade-purplemaia
+/src/backend/routers/auth.py  @jade-purplemaia
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @jade-purplemaia
